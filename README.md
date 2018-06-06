@@ -1,2 +1,2 @@
 # meta
-Meta-Repository for Wiki and User Stories [wiki](https://github.com/BPChain/meta/wiki)
+Meta-Repository for [Wiki](https://github.com/BPChain/meta/wiki) and User Stories
